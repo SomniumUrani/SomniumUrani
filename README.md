@@ -1,17 +1,17 @@
-<h2 align="center">Hi</h2>
+# SomniumUrani
 
-<p align="center">I'm exploring and mastering embedded systems and low level enviroments.</p>
+-> **Embedded systems engineer** *(By soul because by university title no yet)*
 
--> Embedded systems engineer (By soul because by university title no yet).
+-> **Head of Electronic Systems subsystem** on [Formula URT](https://www.linkedin.com/company/formulaurt/)
 
 ### About me 🧍
 - Currently studying embedded systems through ESP32, STM32 & Raspberry pi
 - Aiming for a biomedic major
-- I want to make projects that nobody thought
 - When I am not on PC, I write or read 📚
 - Hugest fan of [Aurora Aksnes](https://youtu.be/Y1YTg6SEed8?t=4)
 - Looking to live in a norwergian forest 🏕️
-- I speak Spanish, English & Italian. French, Latin & Norwergian on hold.
+
+**🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian**
 
 ### My ol' reliable 🛠
 
