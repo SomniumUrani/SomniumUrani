@@ -1,7 +1,5 @@
 # SomniumUrani
 
--> **Embedded systems engineer** *(By soul because by university title no yet)*
-
 -> **Head of Electronic Systems subsystem** on [Formula URT](https://www.linkedin.com/company/formulaurt/)
 
 ### About me 🧍
