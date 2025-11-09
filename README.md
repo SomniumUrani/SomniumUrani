@@ -1,6 +1,6 @@
 # SomniumUrani
 
--> **Head of Electronic Systems subsystem** on [Formula URT](https://www.linkedin.com/company/formulaurt/)
+-> **Head of Electronic Systems** at [Formula URT](https://www.linkedin.com/company/formulaurt/)
 
 ### About me 🧍
 - Currently studying embedded systems through ESP32, STM32 & Raspberry pi
