@@ -3,11 +3,11 @@
 -> **Head of Electronic Systems** at [Formula URT](https://www.linkedin.com/company/formulaurt/) 🏎️
 
 ### About me 🧍
-- Currently studying low level systems 💾
+- Programming low level systems 💾
+- In PCB design
 - Moving to semiconductors design
 - Future out-of-town student
-- When I am not on PC, I write or read 📚
-- Hugest fan of [Aurora Aksnes](https://youtu.be/Y1YTg6SEed8?t=4) 🎹
+- In free times, wikipedia [contributor](https://es.wikipedia.org/wiki/Especial:Contribuciones/SomniumUrani)
 
 **🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian**
 
