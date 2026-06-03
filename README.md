@@ -1,8 +1,6 @@
 # SomniumUrani
 > El gato murió parado por curioso y el perro sigue vivo y de rodillas.
 
-**Head of Electronic Systems** at [Formula URT](https://www.linkedin.com/company/formulaurt/) 🏎️
-
 ### About me 🧍
 - Programming low level systems 💾
 - In PCB design
