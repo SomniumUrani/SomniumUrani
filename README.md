@@ -5,8 +5,9 @@
 - Programming low level systems 💾
 - In PCB design
 - Moving to semiconductors design
-- Future out-of-town student
+- Out-of-town student EE student
 - In free times, wikipedia [contributor](https://es.wikipedia.org/wiki/Especial:Contribuciones/SomniumUrani)
+- Ex genius kid to become average college student
 
 **🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian**
 
